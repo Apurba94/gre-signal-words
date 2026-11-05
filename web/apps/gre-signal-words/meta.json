@@ -1,0 +1,11 @@
+{
+ "name": "gre-signal-words",
+ "title": "Signal Word Trainer",
+ "exam": "GRE",
+ "area": "GRE Verbal",
+ "desc": "Spot contrast, continuation and cause signals, then predict what fits the blank before seeing the options.",
+ "content": [
+  "signals.json"
+ ],
+ "n": 8
+}
